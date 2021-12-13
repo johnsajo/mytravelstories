@@ -1,0 +1,33 @@
+
+table, td, th {
+  border: 1px solid black;
+  text-align: center;
+}
+table {
+  width: 35%;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #bfc0c0;
+  height: 70px;
+
+}
+input[type=text] {
+  width: 10%;
+  border-style: solid;
+  border-width: 0.9px;
+  border-radius: 2px;
+}
+
+input[type=submit] {
+  background-color: #e2e1e1;
+  border: solid;
+  border-width: 0.9px;
+  border-radius: 2px;
+}
+  
+
+legend {
+  font-weight: bold;
+}
